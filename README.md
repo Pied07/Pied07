@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pied07
 - 👀 I’m interested in cyber security and ethical hacking, python, data science and analytics.
-- 🌱 I’m currently digging deep into python world
+- 🌱 I’m currently digging deep into React-Native world
